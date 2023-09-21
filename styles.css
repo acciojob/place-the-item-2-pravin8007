@@ -2,7 +2,6 @@
 /* Your CSS Code here. */
 .con{
 	display :flex;
-	flex-direction : row ;
 	justify-content : center ;
 	flex-wrap : wrap;
 	font-size : 50px ;
