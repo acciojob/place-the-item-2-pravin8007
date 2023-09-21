@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.con{
+.holder{
 	display :flex;
 	justify-content : center ;
 	flex-wrap : wrap;
